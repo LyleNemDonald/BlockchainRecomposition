@@ -1,3 +1,3 @@
 # BlockchainRecomposition
 
-##[Go to Wiki!](https://github.com/LyleNemDonald/BlockchainRecomposition/wiki)
+##[Go to Wiki!](https://github.com/LyleNemDonald/HodlerRecomposition/wiki)
